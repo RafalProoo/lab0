@@ -12,8 +12,6 @@ public class TailsGenerator {
             words.add(value.substring(i));
         }
 
-        //return new ArrayList<>(value.length());
-
         return words;
     }
 
